@@ -2,7 +2,7 @@
 
 **Question:** What can I learn about movies, ratings, and tags using SQL alone?
 
-**Data:** The MovieLens `ml-latest-small` dataset: 100,836 ratings and 3,683 tags across 9,742 movies, from 610 users. Files are in `data/`, and a README describes the license and structure.
+**Data:** The MovieLens `ml-latest-small` dataset, from 610 users. The files in `data/` contain 100,818 ratings, 3,680 tags, and 9,729 movies. The dataset's own documentation lists slightly different totals, so these figures come from the files as included here. The `data/README.txt` file describes the license and structure.
 
 **Queries (17 in total)**
 - Exploring table structure and row counts
