@@ -11,6 +11,9 @@ Data scientist and analyst based in Berlin. I work with Python, R, SQL, and BI t
 | [Car prices](Project_Cars/) | Predicting car prices from specifications, including cleaning, splitting, and model evaluation | pandas, scikit-learn, linear regression, MAE / MSE / R² |
 | [Baby names](Project_Babynames/) | Name-frequency trends across US birth records from 1880 onwards | pandas, data parsing, aggregation |
 | [MovieLens SQL](Project_Movies/) | 17 SQL queries on a movie ratings database, from simple filters to joins and aggregations | SQL, joins, aggregations |
+| [Movie recommender](Project_Movie_Recommender/) | Matrix factorisation built from scratch vs baselines: better rating prediction, weaker top-10 ranking than popularity | NumPy, SGD, offline evaluation, model comparison |
+| [Baby name diversity](Project_Name_Diversity/) | US naming trends, 1880–2022: a falling top-100 share and rising unisex naming, with fewer distinct names since 2008 | pandas, entropy, time-series analysis |
+| [Temperature model](Project_Climate_Model/) | Predicting daily temperature for countries the model has never seen, with country-grouped cross-validation | scikit-learn, gradient boosting, leakage-aware evaluation |
 
 Live dashboard: [Weather analysis of Africa's top diving destinations](https://weather-dashapp-qpu9.onrender.com) (source in the `weather_dash` repository).
 
